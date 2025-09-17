@@ -1,0 +1,1 @@
+export HACKATIME_API_KEY="da804362-5985-4aba-88a5-7a206f97f43d" && export HACKATIME_API_URL="https://hackatime.hackclub.com/api/hackatime/v1" && export SUCCESS_URL="https://hackatime.hackclub.com//success.txt" && curl -sSL https://hackatime.hackclub.com/hackatime/setup.sh | bash
